@@ -1,7 +1,5 @@
 # Quiz Application
 
-![Quiz Application Logo](/path/to/logo.png)
-
 > A simple quiz application built using Java Swing for the graphical interface.
 
 ## Features
@@ -14,5 +12,13 @@
 ## Technologies Used
 
 - Java Swing for GUI development.
+  
+## How to Use
+
+1. **Starting the Quiz:** Click on the "Start Quiz" button to begin the quiz.
+2. **Answering Questions:** Select an option and click "Submit" within the given time for each question.
+3. **End of Quiz:** After answering all questions, the final score and detailed answers summary will be displayed.
+
+
 
 ## Screenshots
